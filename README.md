@@ -1,0 +1,4 @@
+Baudrate
+========
+
+Find the baudrate
